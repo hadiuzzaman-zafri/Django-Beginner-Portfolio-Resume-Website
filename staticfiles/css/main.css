@@ -1,0 +1,35 @@
+body {
+    background-color: lightgrey;
+}
+
+#profile-wrapper {
+    text-align: center;
+}
+
+#prifile-intro {
+    text-align: left;
+}
+
+#profile-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.social-links ul, li {
+    display: inline-block;
+    list-style-type: none;
+
+}
+
+.social {
+    width: 25px;
+    height: 25px;
+}
